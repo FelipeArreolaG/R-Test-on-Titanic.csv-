@@ -1,4 +1,4 @@
-# TITANIC ANALYSIS
+# SURVIVAL PATTERNS ON THE TITANIC
 
 En el analisis sobre los supuestos supervivientes del incidente “Titanic” se recabaron los siguientes graficos con el fin de comprender los patrones referentes a la supervivencia de los pasajeros:
 
